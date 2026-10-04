@@ -13,3 +13,8 @@ MODIFICHE PRINCIPALI
 
 APRIRE
 Aprire index.html in un browser.
+
+AGGIORNAMENTO PALETTE
+- Palette resa più neutra e vicina al linguaggio visivo di Studio Dierico.
+- Ridotto il marrone dominante: avorio/bianco caldo + antracite + grigi caldi.
+- Bordeaux mantenuto solo come micro-accento.

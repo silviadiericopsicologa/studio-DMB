@@ -1,15 +1,15 @@
-STUDIO DMB — FACSIMILE SITO
+STUDIO DMB — FACSIMILE STRATEGICO V2
 
+Questa versione è pensata per una presentazione interna alle tre socie.
+Non è un sito pubblico definitivo.
+
+MODIFICHE PRINCIPALI
+- eliminate tutte le fotografie e gli asset visivi potenzialmente fuorvianti;
+- identità grafica resa più vicina al linguaggio di silviadierico.com: avorio, tipografia editoriale, grandi titoli serif, linee sottili, sezioni numerate e molto spazio bianco;
+- Studio DMB indicato esplicitamente come nome temporaneo;
+- aggiunte pagine interne Visione e Scelte da definire;
+- ogni area distingue ciò che potrebbe vedere il pubblico dalle decisioni organizzative ancora da validare;
+- rafforzati: modello per pazienti, collaboratori, governance, formazione/territorio, integrazione PdT e architettura dei contatti.
+
+APRIRE
 Aprire index.html in un browser.
-
-Pagine incluse:
-- index.html
-- psicoterapia.html
-- equipe.html
-- collaborare.html
-- formazione-progetti.html
-- pdt.html
-- contatti.html
-
-Studio DMB è un nome temporaneo usato per la demo.
-Il sito è pensato come facsimile strategico da presentare alle socie: contenuti, servizi, ruoli, forma societaria, contatti e aspetti legali/fiscali devono essere validati prima della pubblicazione.
